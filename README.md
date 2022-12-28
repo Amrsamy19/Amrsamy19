@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Amr Samy</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <a href="https://twitter.com/iambigbanana19" target="blank"><img src="https://img.shields.io/twitter/follow/iambigbanana19?logo=twitter&style=for-the-badge" alt="iambigbanana19" /></a> </p>
-
 - 🌱 I’m currently learning **other JavaScript frameworks such as Angular and Vue.**
 
 - 👨‍💻 All of my projects are available at [http://amrsamy.netlify.app/](http://amrsamy.netlify.app/)
