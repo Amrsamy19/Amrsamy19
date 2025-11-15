@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Samy</h1>
 <h3>I’m a dedicated front-end developer with a strong foundation in React, TypeScript, and modern web design. I love crafting interactive and responsive user experiences, and I’m passionate about writing clean, maintainable code. Whether it’s building scalable web applications or contributing to open-source tools, I thrive on solving real problems and continuously learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrsamy19&label=Profile%20views&color=0e75b6&style=flat" alt="amrsamy19" /> </p>
-
 - 📫 How to reach me **amrsamy622@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
