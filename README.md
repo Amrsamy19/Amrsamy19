@@ -68,8 +68,9 @@ const amr = {
 
 <div align="center">
 
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrsamy19&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrsamy19&layout=compact&theme=tokyonight&hide_border=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Amrsamy19.Amrsamy19)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amrsamy19&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
